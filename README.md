@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!
+### Have a nice day! 😎
 
 <!--
 **Ethan4810/Ethan4810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
